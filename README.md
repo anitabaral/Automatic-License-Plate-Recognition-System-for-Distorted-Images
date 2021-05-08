@@ -14,7 +14,7 @@ Conjunction of Automatic License Plate Recognition (ALPR) with Super Resolution 
   <li>License Plate Detection and Localization- Using WPOD-NET</li>
   <li>Super Resolution - Using SRGAN</li>
   <li>Character Segmentation - Using contour-based approach</li>
-  <li>haracter Recognition - Using SVM</li>
+  <li>Character Recognition - Using SVM</li>
 </ol>
 
 <h4 style="display: inline-block">Usage</h4>
