@@ -6,7 +6,7 @@ Conjunction of Automatic License Plate Recognition (ALPR) with Super Resolution 
 
 <h4 style="display: inline-block">Model Architecture</h4>
 <p align="center">
-<img align="center" src="images/system_model.jpg" alt="Architecture of ALPR system for distorted images">
+<img align="center" src="images/Untitled Diagram (12).jpg" alt="Architecture of ALPR system for distorted images" width="700" height="300">
 </p>
 
 <h4 style="display: inline-block">Methodology</h4>
